@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Batch_DeduplicaAccount</members>
+        <members>Batch_executeDeduplica</members>
+        <members>Batch_executeDeduplicaTest</members>
+        <members>PromoCodeExtController</members>
+        <members>WSOrderseCommerce</members>
+        <members>WSOrderseCommerceTEST</members>
+        <members>WSeCommerceBasketInputParameter</members>
+        <members>WSeCommerceInputParameter</members>
+        <members>WSeCommerceOrderLineInputParameter</members>
+        <members>WSeCommerceOutputParameter</members>
+        <members>WSeCommercePaymentInputParameter</members>
+        <members>WSeCommerceProductInputParameter</members>
+        <members>WSeCommerceScontoACarrello</members>
+        <members>WSeCommerceScontoPerProdotto</members>
+        <members>WrapperDeduplica</members>
+        <members>WrapperDeduplicaAddress</members>
+        <members>WrapperDeduplicaEmail</members>
+        <members>WrapperDeduplicaList</members>
+        <members>WrapperDeduplicaListAddress</members>
+        <members>WrapperDeduplicaListEmail</members>
+        <members>WrapperDeduplicaResult</members>
+        <members>WsOrderEcomerceOutputLine</members>
+        <members>batchRenewPromoCode</members>
+        <members>orderLineStruct</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>EcommerceEndopoint__c</members>
+        <members>eCommerceOrderLine__c</members>
+        <members>eCommerceOrder__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Account-Account Layout</members>
+        <members>Account-Azienda</members>
+        <members>Account-Libero Professionista</members>
+        <members>Account-Privato</members>
+        <members>Account-Privato SysAdmin</members>
+        <members>Account-Privato-ADV</members>
+        <members>Payment__c-Layout Pagamento</members>
+        <members>eCommerceOrderLine__c-Linea d%27ordine eCommerce Layout</members>
+        <members>eCommerceOrder__c-Ordine eCommerce Layout</members>
+        <name>Layout</name>
+    </types>
+    <version>27.0</version>
+</Package>
